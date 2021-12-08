@@ -1,0 +1,39 @@
+html{
+    background-color: rgb(3, 126, 85);
+
+}
+h1{
+    width: 500px;
+    border: 3px solid;
+    border-color: rgb(10, 8, 8);
+    border-width: 4px;
+    border-radius: 20px;
+    padding: 10px;
+}
+h2{
+    width: 400px;
+    border: 5px solid;
+    border-color: mediumseagreen;
+    border-width: 4px;
+}
+p{
+    background-color: rgb(255, 223, 118);
+    border: 2px dotted;
+    border-radius: 15px;
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+}
+.link{
+    border: 3px solid; 
+    border-color: rgb(119, 136, 120);
+    border-width: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+img{
+    padding-top: 50px;
+}
+progress{
+width: 500px;
+}
